@@ -1,0 +1,26 @@
+body {
+    background-color:#6D947A; 
+    color: #754C4B;   
+}
+
+
+
+p,ol {
+    font-size: 20px;
+    font-style: normal;
+    font-family: Arial Narrow, sans-serif;
+    
+}
+
+h1 {
+    font-style: normal;
+    font-family: Arial Narrow, sans-serif ;
+}
+
+h2 {
+    font-style: italic;
+    font-family: Arial Narrow, sans-serif ;
+}
+
+
+/*J'ai volontairement mis des font-family partout afin de m'entraîner à écrire plus vite au clavier pas de panique ;)*/
